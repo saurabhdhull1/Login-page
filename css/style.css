@@ -23,7 +23,7 @@ body{
     box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #fff ;
 }
 .logo{
-    background: url(/img/logologin.png);
+    background: url(img/logologin.png);
     margin: 0 auto;
     height: 100px;
     width: 100px;
